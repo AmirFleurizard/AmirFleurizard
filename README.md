@@ -3,27 +3,34 @@
 Software Engineer | AI Engineer | Researcher | Founder
 
 
-###**Tech Stack**
+###Tech Stack
 
 **Languages**
 Python, Java, JavaScript, TypeScript, SQL, C/C++, Bash, Powershell
 
-AI & ML
+**AI & ML**
 PyTorch, TensorFlow, Scikit-learn, LangChain, OpenCV, Matplotlib, Pandas, NumPy
 
-Cloud & DevOps
+**Cloud & DevOps**
 AWS, GCP, Azure, Docker, Kubernetes, Linux, GitLab-CI, GitHub Actions
 
-Frontend
+**Frontend**
 React, React Native, Next.js, Tailwind CSS, HTML/CSS, Figma
 
-Backend
+**Backend**
 FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, RESTful APIs, GraphQL
 
-Tools & Others
+**Tools & Others**
 Git, Jira, Postman, VS Code, Jupyter, LaTeX, Agile/Scrum
 
-##**Featured Projects**
+##Featured Projects
+###Coral Restoration Research Project
+**In cooperation with the Coral Restoration Foundation, conducted research and developed a deep learning model using YOLO (You Only Look Once) object detection**
+
+
+https://github.com/AmirFleurizard/CRF_Project-Computer_Vision
+
+
 
 <!--
 **AmirFleurizard/AmirFleurizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
