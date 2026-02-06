@@ -22,14 +22,26 @@ FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, RESTful APIs, GraphQL
 
 **Tools & Others**
 Git, Jira, Postman, VS Code, Jupyter, LaTeX, Agile/Scrum
-
+<!--
 ##Featured Projects
 ###Coral Restoration Research Project
 **In cooperation with the Coral Restoration Foundation, conducted research and developed a deep learning model using YOLO (You Only Look Once) object detection**
 
-
 https://github.com/AmirFleurizard/CRF_Project-Computer_Vision
 
+
+Intergalatic Avengers
+https://github.com/AmirFleurizard/Intergalactic-Avengers-Final
+
+Deadly Cleanup
+https://github.com/AmirFleurizard/DeadlyCleanUp
+
+ProPark
+https://github.com/AmirFleurizard/ProPark2.0
+
+Multi Stock Ticker
+https://github.com/AmirFleurizard/Multi-Stock-Ticker
+-->
 
 
 <!--
