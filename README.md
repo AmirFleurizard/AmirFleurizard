@@ -3,7 +3,7 @@
 Software Engineer | AI Engineer | Researcher | Founder
 
 
-###Tech Stack
+##Tech Stack
 
 **Languages**
 Python, Java, JavaScript, TypeScript, SQL, C/C++, Bash, Powershell
